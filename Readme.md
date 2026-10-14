@@ -11,3 +11,6 @@ A photography portfolio website with my bio, my favorite photos, and a contact f
 
 ## live site
 https://randygitonga-lgtm.gitub.io/photography-portfolio/
+
+## liscence
+MIT liscencse. copyright (c) 2026 Randy.
